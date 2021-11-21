@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+arraymin/__init__.py
+arraymin/arraymin.py
+arraymin.egg-info/PKG-INFO
+arraymin.egg-info/SOURCES.txt
+arraymin.egg-info/dependency_links.txt
+arraymin.egg-info/top_level.txt
