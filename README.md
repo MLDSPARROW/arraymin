@@ -26,9 +26,13 @@ pip install dist/arraymin-1.0.0-py3-none-any.whl
 from arramin import arraymin
 
 #define the array:
+
 array = [1,0, 4,5,6,7]
+
 arr = array(array)
+
 arr.check_input()
+
 if it is successful, then we can find the minimum based on the following:
 
 minimum = arr.get_min(0, len(array) - 1, array)
